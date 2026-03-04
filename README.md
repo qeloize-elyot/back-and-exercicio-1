@@ -1,2 +1,3 @@
 # back-and-exercicio-1
-bom dia
+print("olá mundo!")
+
