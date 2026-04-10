@@ -18,5 +18,5 @@
     </script>
 </body>
 </html>
-bom dia
+let soma=0;
 
